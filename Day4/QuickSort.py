@@ -15,4 +15,4 @@ def quicksort(arr):
     return quicksort(left) + middle + quicksort(right)
 
 # Test the quicksort function with an example array
-print(quicksort([3,6,8,10,1,2,15,7,-4,5,-9,18]))
+print(quicksort([3, 6, 8, 10, 1, 2, 15, 7, -4, 5, -9, 18, 5, 12, 9, -2,]))
