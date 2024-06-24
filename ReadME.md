@@ -38,4 +38,4 @@ Contact
 Feel free to reach out with questions or comments:
 
 - Email: abubakarp789@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abubakar56/)
+- LinkedIn [My LinkedIn Profile](https://www.linkedin.com/in/abubakar56/)
