@@ -2,11 +2,11 @@
 
 Introduction:
 
-Welcome to 100 Days of Bytewise! This repository chronicles my journey through a 100-day machine-learning fellowship with Bytewise Limited. Dive in to find daily updates, key learnings, and projects from day 1 to day 100.
+Welcome to 100 Days of Bytewise! This repository track my journey through a 100-day machine-learning fellowship with Bytewise Limited. Dive in to find daily updates, key learnings, and projects from day 1 to day 100.
 
 Key Learning Outcomes:
 
-Through this fellowship, I have gained proficiency in:
+Through this fellowship, I will  gained proficiency in:
 
 - Machine Learning: Algorithms, model evaluation, data preprocessing.
 - Deep Learning: Neural networks, CNNs, RNNs, TensorFlow, PyTorch.
@@ -15,7 +15,7 @@ Through this fellowship, I have gained proficiency in:
 
 Tools and Technologies:
 
-Here are the main tools and technologies I’ve used:
+Here are the main tools and technologies I am using:
 
 - Languages: Python
 - Frameworks: TensorFlow, PyTorch
