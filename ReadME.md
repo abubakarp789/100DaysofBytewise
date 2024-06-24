@@ -1,4 +1,4 @@
-100 Days of Bytewise
+100 Days Of Bytewise
 
 Introduction:
 
