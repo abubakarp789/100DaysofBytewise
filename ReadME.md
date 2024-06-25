@@ -1,8 +1,8 @@
-#100 Days Of Bytewise
+# 100 Days Of Bytewise
 
-##Introduction:
+## Introduction:
 
-Welcome to 100 Days of Bytewise! This repository track my journey through a 100-day machine-learning fellowship with Bytewise Limited. Dive in to find daily updates, key learnings, and projects from day 1 to day 100.
+Welcome to 100 Days of Bytewise! This repository tracks my journey through a 100-day machine-learning fellowship with Bytewise Limited. Dive in to find daily updates, key learnings, and projects from day 1 to day 100.
 
 ##Key Learning Outcomes:
 
