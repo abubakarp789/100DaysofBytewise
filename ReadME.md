@@ -1,9 +1,9 @@
-100 Days of Bytewise
+#100 Days of Bytewise
 
-Introduction
+##Introduction
 Welcome to 100 Days of Bytewise! This repository chronicles my journey through a 100-day machine-learning fellowship with Bytewise Limited. Dive in to find daily updates, key learnings, and projects from day 1 to day 100.
 
-Key Learning Outcomes
+##Key Learning Outcomes
 Through this fellowship, I have gained proficiency in:
 
 - Machine Learning: Algorithms, model evaluation, data preprocessing.
@@ -11,7 +11,7 @@ Through this fellowship, I have gained proficiency in:
 - Data Analysis: Pandas, NumPy, Matplotlib.
 
 
-Tools and Technologies
+##Tools and Technologies
 Here are the main tools and technologies I’ve used:
 
 - Languages: Python
@@ -20,7 +20,7 @@ Here are the main tools and technologies I’ve used:
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 - Version Control: Git, GitHub
 
-How to Contribute
+##How to Contribute
 Contributions are welcome! Here’s how you can help:
 
 1. Fork this repository.
@@ -31,10 +31,10 @@ Contributions are welcome! Here’s how you can help:
 
 For significant changes, please open an issue to discuss your ideas first.
 
-Acknowledgments
+##Acknowledgments
 A huge thank you to Bytewise Limited for this fantastic opportunity. Special thanks to our track Lead Nimra Waqar and colleagues for their unwavering support.
 
-Contact
+##Contact
 Feel free to reach out with questions or comments:
 
 - Email: abubakarp789@gmail.com
