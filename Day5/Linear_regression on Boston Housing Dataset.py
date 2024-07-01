@@ -3,10 +3,14 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
+from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
 # (a). Load the Boston Housing dataset
 boston_dataset = pd.read_csv('Day5/BostonHousing.csv')
+
+# Remove rows with null values
+boston_dataset = boston_dataset.dropna()
 
 # Select the features and target variable
 features = ['lstat', 'rm']
@@ -17,6 +21,7 @@ y_data = boston_dataset[target]
 
 # Split the dataset into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.2, random_state=5)
+
 
 #(b). Train the linear regression model
 linear_regression_model = LinearRegression()
@@ -40,3 +45,5 @@ plt.xlabel('ISLAT')
 plt.ylabel('MEDV')
 plt.legend()
 plt.show()
+
+
